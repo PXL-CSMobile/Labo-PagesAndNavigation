@@ -1,6 +1,4 @@
-﻿using HelloPXL.Pages;
-
-namespace HelloPXL
+﻿namespace HelloPXL
 {
     public partial class AppShell : Shell
     {
